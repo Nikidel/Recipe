@@ -1,0 +1,133 @@
+/* GENERAL */
+
+body {
+	font-family: 'Oleo Script', cursive;
+	line-height: 1.4;
+	color: #212121;
+	background-color: #FFE0B2
+}
+
+
+/* HEADER */
+
+header{
+	padding: 1.5rem 5%;
+	background-color: #757575;
+	
+}
+
+.logo h1{
+	font-family: 'Oleo Script', cursive;
+	font-size: 2.5rem;
+	color: #F57C00;
+	font-weight: 300;
+
+}
+
+.menu a{
+	color: #F57C00;
+	text-decoration: none;
+	font-family: 'Oleo Script', cursive;
+	font-size: 1.3rem;
+}
+
+
+
+/* MAIN CONTENT */
+
+main{
+	padding: 3rem 5%;
+}
+
+main h1{
+	font-size: 3rem;
+	font-family: 'Lobster Two', cursive;
+}
+
+
+main h2{
+	font-size: 1.5rem;
+	font-family: 'Lobster Two', cursive;
+
+}
+
+main h3{
+	font-size: 1.5rem;
+	font-family: 'Lobster Two', cursive;
+
+}
+
+main li{
+	font-size: 1rem;
+	font-family: 'Nova Square', cursive
+}
+
+/* COLUMN LEFT */
+.col-left img{
+	width: 100%;
+}
+
+
+
+/* INNER COLUMN */
+.inner h4{
+	font-family: 'Nova Square', cursive
+
+}
+.inner p{
+	font-family: 'Nova Square', cursive
+
+}
+
+
+/* COLUMN RIGHT */
+.col-right h1{ 
+	width: 100%;
+	font-family: 'Nova Square', cursive
+}
+.col-right h2{
+	width: 100%;
+	font-family: 'Nova Square', cursive
+}
+
+
+/* INGREDIENTS LIST */
+
+.ingredients ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.ingredient1 li{
+	padding: .5rem 0;
+	border-top: 1px dotted #bdbdbd
+}
+.ingredient2 li{
+	padding: .5rem 0;
+	border-top: 1px dotted #bdbdbd
+}
+
+
+/* FOOTER */
+
+footer{
+	padding: 1.5rem 5%;
+	background-color:#212121;
+	font-family: 'Nova Square', cursive
+}
+footer p{
+	margin: 0;
+	color: #FFC107;
+}
+footer a{
+	text-decoration: none;
+	font-family: 'Nova Square', cursive
+	color: #FFE0B2;
+	background-color: #BDBDBD;
+}
+
+
+
+
+
+
